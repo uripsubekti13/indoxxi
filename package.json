@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.5.0",
-    "react-native-cheerio": "^1.0.0-rc.4"
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.5.0"
   }
 }
